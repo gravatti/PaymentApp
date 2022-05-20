@@ -9,4 +9,12 @@ public class User {
     this.name = name;
     this.items = items;
   }
+
+  public Integer getItems() {
+    return items;
+  }
+
+  public String getName() {
+    return name;
+  }
 }

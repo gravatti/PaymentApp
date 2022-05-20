@@ -4,6 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class FunctionTest {
+  public static String test = "";
 
   public static StringTester hasDuplicateTester(){
     return null;
