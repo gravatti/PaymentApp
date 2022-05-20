@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "Question1",
+      "setup": "",
+      "run": "mvn -Dtest=Question1 test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Question2",
+      "setup": "",
+      "run": "mvn -Dtest=Question2 test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Question3",
+      "setup": "",
+      "run": "mvn -Dtest=Question3 test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Question4",
+      "setup": "",
+      "run": "mvn -Dtest=Question4 test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Question5",
+      "setup": "",
+      "run": "mvn -Dtest=Question5 test",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
